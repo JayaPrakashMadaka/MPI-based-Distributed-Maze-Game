@@ -30,3 +30,7 @@ mpirun -np 4 ./maze.out -g kruskal -s dijkstra
 
 ### A Randomized Ascyclic 0/1 Maze is Generated in src directory for each run
 
+
+## Overview
+![Maze generator and Solver](img/1.png)
+
